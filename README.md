@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/3ug2bNr.png" alt="MichaelZag Banner" height="50%" />
+  <img src="https://i.imgur.com/3ug2bNr.png" alt="MichaelZag Banner" style="max-width: 800px; width: 100%;"
 </p>
 
 <h1 align="center">MichaelZag</h1>
