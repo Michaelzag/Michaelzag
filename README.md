@@ -24,7 +24,7 @@ These days, I spend time in the Roo Code community as a regular user and helper,
 
 ## 🛠️ Current Projects I'm Exploring and Working With
 
-- **[fast-agent](https://github.com/Michaelzag/fast-agent)** – A lightweight agent framework using FastAPI and structured task planning  
+- **[llaam-index](https://github.com/run-llama/llama_index)** – A Data framework for LLM apps
 - **[RooCode-Tips-Tricks](https://github.com/Michaelzag/RooCode-Tips-Tricks)** – Notes and examples from daily Roo Code use  
 - **[fast-mcp](https://github.com/Michaelzag/fast-mcp)** – Experimenting with how agents can interact through the Model Context Protocol  
 - **[Graphiti](https://github.com/getzep/graphiti)** – A tool for building real-time knowledge graphs for AI agents  
